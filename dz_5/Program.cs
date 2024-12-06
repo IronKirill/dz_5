@@ -8,7 +8,6 @@ namespace dz_5
         static void Main(string[] args)
         {
             char[] str = new char[] { 'H','E','L','L','O',',','W','O','R','L','D','!' };
-            //11(0-11)
             MyString_.MyString myString = new MyString_.MyString(str);
 
             Console.WriteLine("------------------------------------");
